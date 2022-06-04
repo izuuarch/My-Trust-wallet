@@ -8,5 +8,5 @@ The admin confirms the transaction.
 The cryptocurrency payment gateway that was used in the app is coinbase cryptocurrency api
 
 In general the app works exactly like trustwallet app
-
+Coming soon gateway: Coinpayments Gateway with core php
 Technologies: Core Php,javascript,Rest apis
